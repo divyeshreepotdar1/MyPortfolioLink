@@ -53,17 +53,17 @@ function Projects() {
                 <strong>Responsibilities:</strong>
               </p>
               <ul>
-                <li>Developed a comprehensive data visualization interface using HTML5, CSS3, JavaScript, React, and Redux, significantly enhancing user experience. Addressed performance issues by optimizing rendering and state management.</li>
-                <li>Implemented React Router for seamless client-side navigation, ensuring a smooth and dynamic user experience across different sections of the platform.</li>
-                <li>Built RESTful API endpoints with Node.js and Express, focusing on user authentication, data collection, and reporting. Integrated JWT authentication and Socket.IO for real-time communication, ensuring secure and efficient data transactions.</li>
-                <li>Designed and implemented modules for collecting real-time environmental data from sensors, IoT devices, and external APIs. Utilized MongoDB for data storage and TypeScript for type safety.</li>
-                <li>Conducted unit and integration tests using JEST and Postman to ensure system reliability and cohesion between frontend and backend components.</li>
-                <li>Assisted in deploying the platform on AWS, configured database instances using MongoDB and MySQL, and set up CI/CD pipelines using Docker and Kubernetes for seamless integration and delivery.</li>
-                <li>Integrated Mapbox API for environmental mapping, displaying sensor locations and trends with spatial analysis tools.</li>
-                <li>Managed collaboration and version control using Git/GitHub, ensuring efficient code management.</li>
-                <li>Worked in an Agile environment, contributing to daily stand-ups, sprint planning, and cross-team collaboration.</li>
-                <li>Encountered performance challenges when handling large datasets and real-time data processing. Addressed these by optimizing the application architecture and implementing efficient state management techniques.</li>
-              </ul>
+                <li>Developed and maintained EcoScape as a cross-platform application using React.js for web and React Native for mobile, enabling consistent user experiences and streamlined code reuse.</li>
+                <li>Built responsive data visualization interfaces with HTML5, CSS3, JavaScript, React.js, and Redux for web, and React Native for mobile, optimizing performance and ensuring smooth interaction on all devices.</li>
+                <li>Used React Router for web and React Navigation for mobile, delivering seamless, dynamic navigation tailored to each platform.</li>
+                <li>Created RESTful API endpoints using Node.js and Express, managing secure data transactions, real-time data collection, and user authentication, with JWT and Socket.IO for real-time communication supporting both web and mobile platforms.</li>
+                <li>Designed modules to capture real-time environmental data from IoT sensors and external APIs, using MongoDB and MySQL for scalable data storage, and TypeScript to enforce type safety across the codebases.</li>
+                <li>Integrated Mapbox API on both platforms (web with Mapbox and mobile with React Native Mapbox GL) to visualize environmental data, track sensor locations, and provide users with comprehensive spatial insights.</li>
+                <li>Addressed performance challenges by optimizing architecture, leveraging Redux for efficient state management across web and mobile, using Webpack and Babel for web to reduce load times, and Metro bundler in React Native to enhance app startup times and minimize resource usage.</li>
+                <li>Conducted unit and integration testing with Jest and Postman across both platforms, using Detox for end-to-end testing on mobile, following TDD practices to ensure high reliability and maintainability.</li>
+                <li>Deployed backend services on AWS with Docker and Kubernetes, established CI/CD pipelines for web and mobile, and automated mobile build processes with App Center to enable efficient, continuous delivery.</li>
+                <li>Utilized Git for version control, collaborating effectively in an Agile environment with cross-functional teams to drive iterative improvements, ensure alignment, and prioritize user needs.</li>              
+            </ul>
             </div>
           </Col>
         </Row>
