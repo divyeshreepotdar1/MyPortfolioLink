@@ -24,17 +24,17 @@ function Projects() {
                 <strong>Responsibilities:</strong>
               </p>
               <ul>
-                <li>Developed responsive and dynamic user interfaces using React, Redux, HTML5, and CSS3, ensuring a seamless and cross-browser compatible experience.</li>
-                <li>Managed complex state with Redux and handled asynchronous operations using Redux Thunk to efficiently manage real-time security logs and alerts.</li>
-                <li>Built and integrated secure RESTful APIs using Node.js and Express.js for user authentication and log management.</li>
-                <li>Designed client-side routing with React Router to enable smooth navigation and dynamic content rendering within the application.</li>
-                <li>Conducted unit and integration testing using Jest and React Testing Library to ensure code quality and reliability.</li>
-                <li>Optimized application performance by leveraging Webpack and Babel, reducing load times and enhancing overall efficiency.</li>
+                <li>Developed responsive and dynamic user interfaces using React JS, React Native, Redux, HTML, and CSS, ensuring a seamless and cross-browser compatible experience across web and mobile.</li>
+                <li>Managed complex state with Redux and handled asynchronous operations using Redux Thunk to efficiently manage real-time security logs and alerts for both platforms.</li>
+                <li>Built and integrated secure RESTful APIs using Node.js and Express.js for user authentication and log management, supporting data transactions for web and mobile.</li>
+                <li>Designed client-side routing with React Router for web and React Navigation for mobile, enabling smooth navigation and dynamic content rendering within the applications.</li>
+                <li>Conducted unit and integration testing using Jest and React Testing Library for web, and Detox for mobile, ensuring code quality and reliability across platforms.</li>
+                <li>Optimized application performance by leveraging Webpack and Babel for web, and Metro bundler for mobile, reducing load times and enhancing overall efficiency.</li>
                 <li>Deployed the platform on AWS using EC2 instances for scalable compute resources and AWS RDS for managing the MySQL database with automated backups and high availability.</li>
-                <li>Containerized the application using Docker, creating isolated environments for the Node.js backend and React frontend, enabling easier scalability and management.</li>
-                <li>Orchestrated the platform’s deployment using Kubernetes, managing multiple containers to ensure high availability, load balancing, and automatic scaling.</li>
+                <li>Containerized the application using Docker, creating isolated environments for the Node.js backend and both the React and React Native frontends, enabling easier scalability and management.</li>
+                <li>Orchestrated the platform’s deployment using Kubernetes, managing multiple containers to ensure high availability, load balancing, and automatic scaling across web and mobile.</li>
                 <li>Created Helm charts to automate and streamline deployments across development, test, and production environments within Kubernetes.</li>
-                <li>Built a CI/CD pipeline using Jenkins integrated with Docker and Kubernetes, automating testing, building, and deployment processes for continuous integration and delivery.</li>
+                <li>Built a CI/CD pipeline using Jenkins integrated with Docker and Kubernetes, automating testing, building, and deployment processes for continuous integration and delivery across platforms.</li>
                 <li>Applied PyTorch, TensorFlow, and Scikit-learn to develop machine learning models for analyzing data patterns and enhancing platform functionality.</li>
                 <li>Integrated machine learning models via Flask, using NumPy and Pandas for data preprocessing and Matplotlib for data visualization of threat trends.</li>
                 <li>Collaborated in an Agile environment, participating in daily stand-ups, sprint planning, and retrospectives, ensuring timely delivery of features and improvements.</li>
